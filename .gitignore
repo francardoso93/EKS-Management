@@ -1,0 +1,11 @@
+**/.terraform
+**/*.tfstate
+**/*.tfstate.backup
+**/*.tfstate.backup
+**/*.terraform.lock.hcl
+**/*.terraform.tfstate.lock.info
+terraform/modules/kube-base-components/testapp/node_modules
+**/go.mod
+**/go.sum
+terraform.tfstate**
+# kube-prometheus-stack-**.tgz
